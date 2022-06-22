@@ -45,4 +45,6 @@ Dep - Wylot <br>
 Arr - Przylot
 
 ### 4. Wnioski
+Opóźnienia lotów związane są z wieloma czynnikami, niekoniecznie jest to pogoda, co widać na przykładzie średnich opóźnień, dla każdego zjawiska pogodowego - dla niektórych jest to wartość ujemna co oznacza, że samolot przyleciał przed przewidywanym czasem przylotu. <br>
+Na wartość średnich mogą mieć wpływ ekstremalne wartości, co mogłoby się nie zdarzyć, gdybym wykorzystał do badania mediany, zamiast wartości średniej, mimo to zauważyłem, że największym opóźnieniom dla każdego miasta towarzyszyły niesprzyjające warunki pogodowe. 
 
